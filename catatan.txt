@@ -1,0 +1,10 @@
+Cara akses ke halaman admin"
+- tambahkan /admin setelah link contoh: emeyodere.xyz/admin
+
+login sebagai admin
+username: admin
+password: admin
+
+login sebagai kepsek
+username: kepsek
+password: kepsek123
